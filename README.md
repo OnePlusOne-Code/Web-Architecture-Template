@@ -1,3 +1,8 @@
+<ul>
+  <li><a href="#chinese">中文</a></li>
+  <li><a href="#english">English</a></li>
+</ul>
+
 <h1>✨ Web 项目目录结构模板 ✨</h1>
 
 <span style="color:#FF0000; font-weight:bold;">项目中的示例代码仅供参考和演示，实际运行时可能需要根据项目需求进行适当修改和调整。</span>
@@ -5,11 +10,6 @@
 <p>本项目以Go语言作为演示示例，对于其他编程语言，您可以使用此模板，并删除Go语言特定的代码部分。</p>
 
 <p>欢迎来到我们的 Web 项目！这里是我们的项目目录结构，它有助于我们以逻辑和有组织的方式管理和存储代码及相关资源。</p>
-
-<ul>
-  <li><a href="#chinese">中文</a></li>
-  <li><a href="#english">English</a></li>
-</ul>
 
 <h2 id="chinese">中文</h2>
 
